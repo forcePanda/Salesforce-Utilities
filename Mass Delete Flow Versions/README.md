@@ -2,6 +2,7 @@
 A utility to delete flow versions in bulk.
 
 The package contains a flow, Flows Manager, that allows you to select a flow and delete it's versions.
+You can embed this flow in a lighnting app/home/record page or add it to utility bar, whatever suits you best.
 
 ## Installation
 Use the following link(s) to install the unmanaged(unlocked) package: 
