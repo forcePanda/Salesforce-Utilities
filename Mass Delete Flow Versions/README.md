@@ -6,7 +6,7 @@ The package contains a flow, Flows Manager, that allows you to select a flow and
 ## Installation
 Use the following link(s) to install the unmanaged(unlocked) package: 
 
-| Version | Fixes |Package Link*	    
+| Version | Fixes | Package Link*	    
 |-|-|-|
 | 1.0 | Base Version | https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000004HDc9QAG |
 
