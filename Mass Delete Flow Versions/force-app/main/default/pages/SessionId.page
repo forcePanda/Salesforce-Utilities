@@ -1,0 +1,4 @@
+<apex:page controller="SessionIdController">
+    <!-- The session Id is wrapped between two string literals 'START' and 'END' -->
+    {!START}{!$Api.Session_ID}{!STOP}
+</apex:page>
