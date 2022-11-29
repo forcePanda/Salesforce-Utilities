@@ -19,7 +19,7 @@ Use the following link(s) to install the unmanaged(unlocked) package (make sure 
 
 Once you've succesfully installed the package, add your org's URL to the Remote site settings.
 <br/>
-To do that, copy your org's domain URL (Setup -> My Domain) and go to Setup -> Remote Site Settings -> New Remote Settings.
+To do that, copy your org's domain URL (Setup -> My Domain) and go to Setup -> Remote Site Settings -> New Remote Settings. <br/>
 **Remote Site Name**: Enter a suitable name. <br/>
 **Remote Site URL**: Paste the domain URL you copied. <br/>
 **Disable Protocol Security**: Keep it unchecked. <br/>
